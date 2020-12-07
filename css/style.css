@@ -1,0 +1,23 @@
+
+footer{
+  background-color: rgb(0, 174, 255);
+  color: white;
+}
+
+.zoom:hover {
+  transform: scale(1.1);
+}
+body{
+  font-family: 'Times New Roman', Times, serif;
+}
+.carousel {
+}
+
+.carousel-cell {
+   width: 28%;
+  height: 200px;
+  margin-right: 10px;
+}
+.imageRelate{
+  border-radius: 10px;
+}
